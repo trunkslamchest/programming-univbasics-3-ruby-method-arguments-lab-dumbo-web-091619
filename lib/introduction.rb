@@ -7,8 +7,8 @@ def introduction(name)
   
 end
 
-introduction()
-
+introduction("Josh")
+introduction("Dan")
 
 
 
